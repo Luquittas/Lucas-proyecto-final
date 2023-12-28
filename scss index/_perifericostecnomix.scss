@@ -1,0 +1,30 @@
+#perifericos-tecnomix{
+    background-color: rgb(30,30,30);
+    color: white;
+    text-align: center;
+    
+    }
+    
+    #perifericos-tecnomix .container{
+        padding: 150px 0px;
+        
+    }
+    
+    #perifericos-tecnomix h2{
+    margin-top: 0px;
+    }
+    
+    #perifericos-tecnomix p{
+    display: none;
+    }
+    
+    #perifericos-tecnomix .carta{
+    background-position: center center;
+    background-size: cover;
+    padding: 50px 0px;
+    margin: 30px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column
+    }

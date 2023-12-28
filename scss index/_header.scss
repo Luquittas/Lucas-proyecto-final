@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ 
+
+nav{
+    ul{
+        display: flex;
+        list-style: none;
+        li{
+            a{
+                margin: 15px;
+                color: black;
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+            }
+        }  
+}    
+}    
