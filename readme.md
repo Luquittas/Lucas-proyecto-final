@@ -1,1 +1,1 @@
-Este es mi proyecto para loa semana numero 8 en CoderHouse (Lucas Unrein)
+Este es mi proyecto para la semana numero 8 en CoderHouse (Lucas Unrein)
